@@ -25,3 +25,9 @@ Yet another [brain dump](https://en.wikipedia.org/wiki/Brain_dump) post. (*brain
 
 - [Plague doctor at a rave](https://twitter.com/BanhammersWrath/status/1150139506437316609)
 - [My neighbor totoro](https://twitter.com/wireengineer/status/1150201866069905409) backlit PCB board. 
+- [Teeny Tiny Wdgelit Trophy](http://www.geekmomprojects.com/teeny-tiny-edge-lit-trophy/) - Designed by [Geekmom](https://twitter.com/GeekMomProjects) using a 3mm LED and a CR2032 battery. 
+
+## Robotics 
+
+- [ODrive](https://odriverobotics.com/) - Controller for brusless DC motors that acts like a stepper motor with many advantages. 
+- [Skyentific](https://www.patreon.com/Skyentific/) - A patreon users that is making a robotic arm using the [ODrive](https://odriverobotics.com/) brusless DC motors.  
